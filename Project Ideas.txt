@@ -1,0 +1,19 @@
+﻿Prompt 
+Generate at least 5 compelling project ideas for web applications you would like to create. The web app should have a database, a back end, and a front end with at last 3-5 interactive web form features. You can feature data visualizations, searches, maps, or other interactive elements (or not).
+During this stage, your “idea” can be fairly general and informal. You don’t need to provide a lot of detail for each idea– a single bullet point for each idea should be sufficient.
+
+
+Ideas
+1. Arizona wildflower tracking app: where to go to see wildflowers, ability to input wildflower data.
+
+
+2. Meal party planning app: track dietary restrictions, who’s cooking what, timing 
+
+
+3. Gratitude journal app: like instagram but just for gratitude 
+
+
+4. Book club website: web app for my book club to track past reads, make suggestions
+
+
+5. Gravel biking trails: find and search nearby trails
